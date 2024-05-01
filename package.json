@@ -65,7 +65,7 @@
     "whatwg-url": "^6.4.0"
   },
   "devDependencies": {
-    "webpack-bundle-analyzer": "^3.3.2"
+    "webpack-bundle-analyzer": "^4.10.2"
   },
   "babel": {
     "presets": [
